@@ -9,6 +9,8 @@
 About the structure
 ===================
 
+..  note:: These pages are now maintained and updated at https://diataxis.fr.
+
 Why isn't this obvious?
 -----------------------
 

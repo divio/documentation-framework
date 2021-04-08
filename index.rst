@@ -18,10 +18,7 @@ The documentation system
   \- David Laing
 
 
-..  raw:: html
-
-    <p><a class="btn btn-primary" target="_blank" href="https://diataxis.fr" role="button">The
-    documentation authoring framework is now maintained and updated at diataxis.fr</a></p>
+..  note:: These pages are now maintained and updated at https://diataxis.fr.
 
 
 There is a secret that needs to be understood in order to write good software documentation: there isn’t one

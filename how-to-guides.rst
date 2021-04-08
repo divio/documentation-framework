@@ -3,6 +3,8 @@
 How-to guides
 =============
 
+..  note:: These pages are now maintained and updated at https://diataxis.fr.
+
 How-to guides take the reader through the steps required to solve a real-world problem.
 
 They are recipes, directions to achieve a specific end - for example: *how to create a web form*; *how to plot a three-dimensional data-set*; *how to enable LDAP authentication*.

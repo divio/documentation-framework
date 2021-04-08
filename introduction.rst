@@ -9,6 +9,8 @@
 Introduction
 ============
 
+..  note:: These pages are now maintained and updated at https://diataxis.fr.
+
 The problem and the solution
 ------------------------------
 

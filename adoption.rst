@@ -3,6 +3,8 @@
 Who is using the system?
 ========================
 
+..  note:: These pages are now maintained and updated at https://diataxis.fr.
+
 ..  sidebar:: Not listed here?
 
     If you're using the system, or are in the process of adopting it, please let us know if you'd like to be
