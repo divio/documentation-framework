@@ -3,7 +3,9 @@
 Who is using the system?
 ========================
 
-..  note:: These pages are now maintained and updated at https://diataxis.fr.
+..  admonition:: Please update your bookmarks!
+
+    These pages are now maintained and updated at https://diataxis.fr.
 
 ..  sidebar:: Not listed here?
 

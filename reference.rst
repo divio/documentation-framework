@@ -3,7 +3,9 @@
 Reference guides
 =================
 
-..  note:: These pages are now maintained and updated at https://diataxis.fr.
+..  admonition:: Please update your bookmarks!
+
+    These pages are now maintained and updated at https://diataxis.fr.
 
 Reference guides are *technical descriptions of the machinery* and how to operate it.
 

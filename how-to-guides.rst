@@ -3,7 +3,9 @@
 How-to guides
 =============
 
-..  note:: These pages are now maintained and updated at https://diataxis.fr.
+..  admonition:: Please update your bookmarks!
+
+    These pages are now maintained and updated at https://diataxis.fr.
 
 How-to guides take the reader through the steps required to solve a real-world problem.
 

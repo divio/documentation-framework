@@ -3,7 +3,9 @@
 Tutorials
 =========
 
-..  note:: These pages are now maintained and updated at https://diataxis.fr.
+..  admonition:: Please update your bookmarks!
+
+    These pages are now maintained and updated at https://diataxis.fr.
 
 Tutorials are *lessons* that take the reader by the hand through a series of steps to complete a project of some kind. They are what your project needs in order to show a beginner that they can achieve something with it.
 

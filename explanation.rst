@@ -3,7 +3,9 @@
 Explanation
 =================
 
-..  note:: These pages are now maintained and updated at https://diataxis.fr.
+..  admonition:: Please update your bookmarks!
+
+    These pages are now maintained and updated at https://diataxis.fr.
 
 Explanation, or discussions, *clarify and illuminate a particular topic*. They broaden the documentation’s coverage of a topic.
 
