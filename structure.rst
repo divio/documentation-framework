@@ -9,10 +9,6 @@
 About the structure
 ===================
 
-..  admonition:: Please update your bookmarks!
-
-    These pages are now maintained and updated at https://diataxis.fr.
-
 Why isn't this obvious?
 -----------------------
 
