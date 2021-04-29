@@ -48,7 +48,6 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'env']
 
 html_theme = "divio_docs_theme"
 html_theme_options = {
-    "canonical_url": "https://diataxis.fr/",
     'show_cloud_banner': True,
     'cloud_banner_markup': """
         <div class="divio-cloud">
