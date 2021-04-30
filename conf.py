@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Documentation system'
-copyright = '2017-2021, Daniele Procida'
+copyright = '2017-2021, Divio Technologies AB'
 author = 'Daniele Procida'
 
 
