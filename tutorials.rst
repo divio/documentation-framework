@@ -37,7 +37,7 @@ Consider an analogy of teaching a child to cook.
 
 *What* you teach the child to cook isn’t really important. What’s important is that the child finds it enjoyable, and gains confidence, and wants to do it again.
 
-*Through* the things the child does, it will learn important things about cooking. It will learn what it is like to be in the kitchen, to use the utensils, to handle the food.
+*Through* the things the child does, they will learn important things about cooking. They will learn what it is like to be in the kitchen, to use the utensils, to handle the food.
 
 
 This is because using **software, like cooking, is a matter of craft**. It’s knowledge - but it is *practical* knowledge, not *theoretical* knowledge.
