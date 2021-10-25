@@ -41,7 +41,6 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `WebAccess/DMP <https://docs.wadmp.com>`_
 * `Wechaty <https://wechaty.js.org/docs/>`_
 * `WordPress Block Editor <https://developer.wordpress.org/block-editor/>`_
-
 * Zalando (internal)
 
 
