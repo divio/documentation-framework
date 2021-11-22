@@ -85,7 +85,7 @@ The conclusion of each section of a tutorial, or the tutorial as a whole, must b
 Make your tutorial repeatable
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Your tutorial must be reliably repeatable.** This not easy to achieve: people will be coming to it with different operating systems, levels of experience and tools. What’s more, any software or resources they use are quite likely themselves to change in the meantime.
+**Your tutorial must be reliably repeatable.** This is not easy to achieve: people will be coming to it with different operating systems, levels of experience and tools. What’s more, any software or resources they use are quite likely themselves to change in the meantime.
 
 The tutorial has to work for all of them, every time.
 
