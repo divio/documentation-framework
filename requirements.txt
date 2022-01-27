@@ -1,7 +1,13 @@
-divio-docs-theme==0.0.21
-pyenchant
-sphinx==3.5.3
+click
+divio-cli
+https://github.com/divio/docs-theme/archive/master.zip#egg=furo
+Sphinx
 sphinx-autobuild
-# sphinx_rtd_theme==0.5.2
 sphinxcontrib-spelling
+sphinxcontrib-mermaid
+sphinx-notfound-page
+sphinx-click
+sphinx-inline-tabs
+sphinx-rtd-theme
+pyenchant
 docutils<=0.17

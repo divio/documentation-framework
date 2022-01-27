@@ -47,7 +47,6 @@ or team more successful** - that’s a promise.
 
 .. toctree::
    :maxdepth: 0
-   :hidden:
 
    introduction
    tutorials
