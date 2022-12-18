@@ -1,6 +1,7 @@
 .. meta::
    :description:
-       Find an introduction to how Divio formats and uses documentation. Our approach is to make documentation work for everyone. Learn why this is important here.
+       Find an introduction to how Divio formats and uses documentation. Our approach is to make documentation work for 
+       everyone. Learn why this is important here.
 
 .. raw:: html
 

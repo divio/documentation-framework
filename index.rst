@@ -1,6 +1,7 @@
 .. meta::
    :description:
-       Find the software documentation system for Divio. Includes comprehensive tutorials, how-to guides, technical reference and explanation. Learn more here.
+       Find the software documentation system for Divio. Includes comprehensive tutorials, how-to guides, technical 
+       reference and explanation. Learn more here.
 
 .. raw:: html
 

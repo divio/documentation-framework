@@ -1,6 +1,7 @@
 .. meta::
    :description:
-       Find details on how Divio formats reference guides in our documentation. Reference guides are technical descriptions of the machinery and how to operate it.
+       Find details on how Divio formats reference guides in our documentation. Reference guides are technical 
+       descriptions of the machinery and how to operate it.
 
 .. _reference:
 
