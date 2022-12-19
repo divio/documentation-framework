@@ -1,7 +1,7 @@
 .. meta::
    :description:
        Find details on how Divio formats tutorial guides in our documentation. These are lessons that take the reader 
-       by the hand through a series of steps. Learn more
+       by the hand through a series of steps.
 
 .. _tutorials:
 
