@@ -1,3 +1,8 @@
+.. meta::
+   :description:
+       Find details on who uses the documentation system, inc Divio. This is an incomplete list of projects, products 
+       and organisations who have adopted this sytem.
+
 ..  _adoption:
 
 Who is using the system?

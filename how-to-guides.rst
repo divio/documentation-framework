@@ -1,3 +1,8 @@
+.. meta::
+   :description:
+       Find details on how Divio formats how-to guides in our documentation. How-to guides take the reader through the 
+       steps required to solve a real-world problem.
+
 .. _how-to:
 
 How-to guides
