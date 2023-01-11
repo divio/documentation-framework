@@ -115,7 +115,7 @@ Focus only on the steps the user needs to take
 Example from Divio's documentation
 ----------------------------------
 
-Have a look at `our tutorials <https://docs.divio.com/en/latest/introduction>`_.
+Have a look at `our tutorials <https://docs.divio.com/en/latest/introduction/>`_.
 
 .. image:: /images/django-tutorial-example.png
    :alt: 'Django tutorial example'

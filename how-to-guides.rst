@@ -84,7 +84,7 @@ Name guides well
 Example from Divio's documentation
 ----------------------------------
 
-Have a look at `our how-to guides <https://docs.divio.com/en/latest/how-to>`_.
+Have a look at `our how-to guides <https://docs.divio.com/en/latest/how-to/>`_.
 
 .. image:: /images/django-how-to-example.png
    :alt: 'Django how-to example'
