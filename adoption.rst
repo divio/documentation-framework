@@ -16,6 +16,7 @@ Who is using the system?
 This is an incomplete list of projects, products and organisations that have adopted the system in their own
 bodies of documentation. In some cases the adoption remains partial or is still a work in progress.
 
+* `Advigator <https://www.docs.advigator.com>`_, Advertising software for Amazon sellers
 * `BrachioGraph <https://www.brachiograph.art>`_, the cheapest, simplest pen-plotter
 * `BeeWare <https://beeware.org>`_, the write-once-deploy-anywhere project, for `Toga <https://toga.readthedocs.io>`_,
   `Briefcase <https://briefcase.readthedocs.io>`_, `Rubicon <https://rubicon-objc.readthedocs.io>`_ and `Rubicon Java
