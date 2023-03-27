@@ -49,7 +49,6 @@ html_theme_options = {
         </div>
     """,
     "analytics_id": "G-WT28ECPSX4",
-    "show_intercom": True,
     "style_external_links": True,
     "navigation_depth": 2,
     "sidebar_hide_name": True,
