@@ -16,7 +16,7 @@ Reference material is **information-oriented**.
 
 By all means technical reference can contain examples to illustrate usage, but it should not attempt to explain basic concepts, or how to achieve common tasks.
 
-Reference material should be **austere and to the point**.
+Reference material should be **simple and to the point**.
 
 Note that description **does** include basic description of how to use the machinery - how to instantiate a particular class, or invoke a certain method, for example, or precautions that must be taken when passing something to a function. However this is simply part of its function as technical reference, and emphatically **not** to be confused with a how-to guide - *describing correct usage of software* (technical reference) is not the same as *showing how to use it to achieve a certain end* (how-to documentation).
 

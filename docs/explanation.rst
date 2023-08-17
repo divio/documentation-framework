@@ -57,7 +57,7 @@ They can also explain *why* things are so - design decisions, historical reasons
 Discuss alternatives and opinions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Explanation can consider alternatives**, or multiple different approaches to the same question. For example, in an article on Django deployment, it would be appropriate to consider and evaluate different web server options,
+**Explanation can consider alternatives**, or multiple different approaches to the same question. For example, in an article on Django deployment, it would be appropriate to consider and evaluate different web server options.
 
 Discussions can even consider and weigh up contrary *opinions* - for example, whether test modules should be in a package directory, or not.
 
@@ -71,8 +71,8 @@ Don't instruct, or provide technical reference
 Example from Divio's documentation
 ----------------------------------
 
-Have a look at `our explanation section <https://docs.divio.com/en/latest/background/>`_ (titled "Background" - the name 
-is not important as long as the purpose is clear).
+Have a look at `our explanation section <https://docs.divio.com/en/latest/background>`_ (titled "Background information" -
+the name is not important as long as the purpose is clear).
 
 .. image:: /images/divio-explanation-example.png
    :alt: 'Django explanation example'
