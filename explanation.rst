@@ -1,3 +1,8 @@
+.. meta::
+   :description:
+       Find details on how Divio formats explanations in our documentation. Explanation, or discussions, clarify and 
+       illuminate a particular topic. Learn more here.
+
 .. _explanation:
 
 Explanation

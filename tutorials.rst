@@ -1,3 +1,8 @@
+.. meta::
+   :description:
+       Find details on how Divio formats tutorial guides in our documentation. These are lessons that take the reader 
+       by the hand through a series of steps. Learn more here.
+
 .. _tutorials:
 
 Tutorials
@@ -21,7 +26,7 @@ student. That's rarely possible, and our written tutorials will be at best a far
 reason to pay special attention to them.
 
 Tutorials need to be useful for the beginner, easy to follow, meaningful and extremely robust, and kept up-to-date. You might
-well find that writing and maintaining your tutorials can occupy as much time and energy as the the other three parts put
+well find that writing and maintaining your tutorials can occupy as much time and energy as the other three parts put
 together.
 
 
@@ -115,7 +120,7 @@ Focus only on the steps the user needs to take
 Example from Divio's documentation
 ----------------------------------
 
-Have a look at `our tutorials <https://docs.divio.com/en/latest/introduction>`_.
+Have a look at `our tutorials <https://docs.divio.com/en/latest/introduction/>`_.
 
 .. image:: /images/django-tutorial-example.png
    :alt: 'Django tutorial example'

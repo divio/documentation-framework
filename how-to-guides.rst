@@ -1,3 +1,8 @@
+.. meta::
+   :description:
+       Find details on how Divio formats how-to guides in our documentation. How-to guides take the reader through the 
+       steps required to solve a real-world problem.
+
 .. _how-to:
 
 How-to guides
@@ -84,7 +89,7 @@ Name guides well
 Example from Divio's documentation
 ----------------------------------
 
-Have a look at `our how-to guides <https://docs.divio.com/en/latest/how-to>`_.
+Have a look at `our how-to guides <https://docs.divio.com/en/latest/how-to/>`_.
 
 .. image:: /images/django-how-to-example.png
    :alt: 'Django how-to example'

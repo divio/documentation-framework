@@ -48,7 +48,7 @@ html_theme_options = {
             <a class="btn-neutral divio-cloud-btn" target="_blank" href="https://www.divio.com">Find out more at Divio</a>
         </div>
     """,
-    "segment_id": "f5RRB4OHVUYHtvdKL0Q1KdrZnAYx4jwU",
+    "analytics_id": "G-WT28ECPSX4",
     "style_external_links": True,
     "navigation_depth": 2,
     "sidebar_hide_name": True,
