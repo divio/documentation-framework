@@ -1,0 +1,14 @@
+:hide-toc:
+:orphan:
+
+404 page not found
+==================
+
+Sorry, that page cannot be found.
+
+..  raw:: html
+
+    <p><a class="btn btn-primary btn-small"
+    href="/" role="button">Back to overview</a></p>
+
+Or, try a text search for the information you need.
