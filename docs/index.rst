@@ -11,8 +11,8 @@
     </style>
 
 
-The documentation system
-================================================
+The Documentation System
+========================
 
 .. rst-class:: quote
 
