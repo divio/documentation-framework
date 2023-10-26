@@ -1,3 +1,8 @@
+.. meta::
+   :description:
+       Find details on how Divio formats tutorial guides in our documentation. These are lessons that take the reader 
+       by the hand through a series of steps. Learn more here.
+
 .. _tutorials:
 
 Tutorials
@@ -115,7 +120,7 @@ Focus only on the steps the user needs to take
 Example from Divio's documentation
 ----------------------------------
 
-Have a look at `our tutorials <https://docs.divio.com/en/latest/introduction>`_.
+Have a look at `our tutorials <https://docs.divio.com/en/latest/introduction/>`_.
 
 .. image:: /images/django-tutorial-example.png
    :alt: 'Django tutorial example'

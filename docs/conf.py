@@ -10,6 +10,7 @@
 import os
 import sys
 import datetime
+
 sys.path.insert(0, os.path.abspath("."))
 
 
@@ -20,7 +21,7 @@ sys.path.insert(0, os.path.abspath("."))
 # Add any paths that contain templates here, relative to this directory.
 # templates_path = ['_templates']
 
-project = 'Documentation System'
+project = "Documentation System"
 full_title = project
 copyright = f"{datetime.date.today().year} Divio Technologies AB"
 author = "Divio"
@@ -43,12 +44,16 @@ html_theme_options = {
     "cloud_banner_markup": """
         <div class="divio-cloud">
             <span class="divio-cloud-caption">Cloud deployment by Divio</span>
-            <iframe src="https://player.vimeo.com/video/435660924" width="226" height="141" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-            <p>There's a better, faster, easier way to develop, deploy and manage web applications.</p>
-            <a class="btn-neutral divio-cloud-btn" target="_blank" href="https://www.divio.com">Find out more at Divio</a>
+            <iframe src="https://player.vimeo.com/video/435660924" width="226"
+                height="141" frameborder="0" allow="autoplay; fullscreen"
+                allowfullscreen></iframe>
+            <p>There's a better, faster, easier way to develop, deploy
+                and manage web applications.</p>
+            <a class="btn-neutral divio-cloud-btn" target="_blank"
+                href="https://www.divio.com">Find out more at Divio</a>
         </div>
     """,
-    "segment_id": "f5RRB4OHVUYHtvdKL0Q1KdrZnAYx4jwU",
+    "analytics_id": "G-WT28ECPSX4",
     "style_external_links": True,
     "navigation_depth": 2,
     "sidebar_hide_name": True,
@@ -88,6 +93,4 @@ latex_documents = [
 # -- Options for manual page output -------------------------------------------
 #
 
-man_pages = [
-    (master_doc, html_help_basename, full_title, [author], 1)
-]
+man_pages = [(master_doc, html_help_basename, full_title, [author], 1)]

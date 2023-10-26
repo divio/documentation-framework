@@ -1,7 +1,4 @@
-:orphan:
-
-The documentation system
-========================
+# The Documentation System
 
 A comprehensive and practical system that can help maintainers of product documentation.
 

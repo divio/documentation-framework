@@ -1,3 +1,8 @@
+.. meta::
+   :description:
+       Find details on how Divio formats the structure in our documentation. This goes into why different documentation 
+       can overlap, and end up causing confusion.
+
 .. raw:: html
 
     <style>
