@@ -33,7 +33,7 @@ Analogy from cooking
    :width: 379
 
 
-Consider an encyclopaedia article about an ingredient, say ginger.
+Consider an encyclopedia article about an ingredient, say ginger.
 
 When you look up *ginger* in a reference work, what you want is *information* about the ingredient - information describing its provenance, its behaviour, its chemical constituents, how it can be cooked.
 
