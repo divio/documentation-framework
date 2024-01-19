@@ -16,7 +16,6 @@ Who is using the system?
 This is an incomplete list of projects, products and organisations that have adopted the system in their own
 bodies of documentation. In some cases the adoption remains partial or is still a work in progress.
 
-* `Advigator <https://www.docs.advigator.com>`_, Advertising software for Amazon sellers
 * `BrachioGraph <https://www.brachiograph.art>`_, the cheapest, simplest pen-plotter
 * `BeeWare <https://beeware.org>`_, the write-once-deploy-anywhere project, for `Toga <https://toga.readthedocs.io>`_,
   `Briefcase <https://briefcase.readthedocs.io>`_, `Rubicon <https://rubicon-objc.readthedocs.io>`_ and `Rubicon Java
@@ -35,7 +34,6 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed for the modern web
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
 * `Lisk <https://lisk.io>`_
-* `Matching <https://matching.readthedocs.io>`_, a games theory resource allocation library
 * `NashPy <https://nashpy.readthedocs.io>`_, a Python mathematical library for computing Nash equilibria
 * `nbchkr <https://nbchkr.readthedocs.io>`_, a system for assessing students' assignments in Jupyter Notebooks
 * `NumPy <https://numpy.org/devdocs/>`_, the scientific Python library (related article, `Documentation as a way to
@@ -47,6 +45,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `WebAccess/DMP <https://docs.wadmp.com>`_
 * `Wechaty <https://wechaty.js.org/docs/>`_
 * Zalando (internal)
+* `Attune <https://docs.attuneautomation.com/>`_ Automation
 
 
 Other mentions and references of interest
