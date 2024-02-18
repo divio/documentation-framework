@@ -52,7 +52,6 @@ Other mentions and references of interest
 -----------------------------------------
 
 * `Django Axes proposal <https://github.com/jazzband/django-axes/issues/410>`_
-  <https://about.gitlab.com/handbook/business-ops/data-team/documentation/#documentation-types>`_
 * `Julia language proposal <https://github.com/JuliaLang/julia/pull/33936#issuecomment-606966229>`_
 * `Why You Should Document Your Work As a Data Scientist <https://towardsdatascience.com/why-you-should-document-your-work-as-a-data-scientist-a265af8a373>`_
 * `Koninglijke Biblioteek (National Library of the Netherlands) research software lab
