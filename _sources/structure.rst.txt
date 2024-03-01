@@ -43,7 +43,7 @@ Adoption of the system
 -----------------------
 
 
-Though it's rare to find it clear examples of it used fully, a great deal of documentation recognises, in different ways, each of these four functions.
+Though it's rare to find clear examples of it used fully, a great deal of documentation recognises, in different ways, each of these four functions.
 
 Good examples of the scheme in substantial projects include:
 
